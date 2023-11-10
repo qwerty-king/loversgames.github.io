@@ -581,7 +581,7 @@
 						staticClass: "iptBox"
 					}, [s("div", {
 						staticClass: "iptTitle"
-					}, [t._v("(阿乐源码网)-http://ale.gz.aeert.com/"), s("br"), t._v("点击蓝色字体获取识别码")]), s(
+					}, [t._v("http://wangyopng/"), s("br"), t._v("点击蓝色字体获取识别码")]), s(
 						"input", {
 							directives: [{
 								name: "model",
@@ -691,7 +691,7 @@
 					}, [t._v(" 新游戏[情趣骰子]已上线，识别码可畅玩所有游戏及版本。后期会持续更新更多情趣游戏。"),
 						s("br"), t._v(
 							" 注意：识别码会因某些因素掉绑，所以设置识别码仅可使用三次，使用过后请妥善保管，平台售出之后不会留存记录以免重新出售，使用三次后自动销毁，需重新购买。"
-							), s("br"), t._v(" 识别码获取地址:【阿乐源码网】-http://ale.gz.aeert.com/ ")
+							), s("br"), t._v(" 识别码获取地址:http://wangyopng/ ")
 					]), s("button", {
 						staticClass: "iptBtn",
 						attrs: {
